@@ -1,0 +1,21 @@
+@charset "UTF-8";
+#boardWrap{
+	height: 100vh;
+	width: 100%;
+}
+/*헤더*/
+#header {
+	height: 15vh;
+}
+
+/*작업할 공간*/
+.board {
+	min-height: 70vh;
+	margin-top: 15vh;
+}
+
+/*푸터*/
+#footer {
+	height: 15vh;
+	padding: 0%;
+}
