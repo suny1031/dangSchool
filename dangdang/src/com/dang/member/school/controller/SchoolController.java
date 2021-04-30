@@ -122,7 +122,7 @@ public class SchoolController extends HttpServlet {
 		// schoolDao -> schoolService을 거치며 schoolMember의 객체가 반환된다.
 		if (schoolMember != null) {
 			
-				// 회원정보 있을 경우 해당 내용을 session에 저장.
+				// 회원정보 있을 경우 해당 내용을 session에 저장한다.
 				request.getSession().setAttribute("schoolMember", schoolMember);
 				response.getWriter().print("success");// 클라이언트에 응답하기 위한 출력 스트림을 반환햔다.
 
