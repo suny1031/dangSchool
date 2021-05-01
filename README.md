@@ -34,19 +34,19 @@ user : user 액터의 정보를 관리하고 한다.
 **2. com/dang/map**   
 -유치원 검색, 유치원 지도 마커 표시, 유치원 상세 페이지, 길찾기, 로드뷰
 
-**3. com/dang/review**
+**3. com/dang/review**    
 -후기 보기, 후기 작성
 
-**4. com/dang/reservation**
+**4. com/dang/reservation**     
 -유치원 위치 표시, 유치원 예약, 유치원 예약 확인, 유치원 예약 승인, 유치원 예약 삭제, 예약 캘린더 표시
-
-**5. com/dang/diary**
+  
+**5. com/dang/diary**    
 -알림장 보기, 알림장 상세 보기, 알림장 작성, 알림장 수정, 알림장 삭제 
-
-**6. com/dang/board**
+  
+**6. com/dang/board**    
 -공지사항 보기, 공지사항 상세 보기, 공지사항 작성, 공지사항 수정, 공지사항 삭제 
 
-**7. com/dang/album**
+**7. com/dang/album**   
 -앨범 보기, 앨범 날짜 검색 ,앨범 작성, 앨범 삭제
 
 
